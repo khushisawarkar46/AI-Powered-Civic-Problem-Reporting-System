@@ -1,0 +1,37 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# SQLite database
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Uploaded images/files
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
