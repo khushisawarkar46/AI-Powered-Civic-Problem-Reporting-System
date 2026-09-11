@@ -8,10 +8,10 @@
 
 ## 2. Student Name and Roll Number
 
-**Student Name:** Rupali Nagesh Akkewar  
-**Roll Number:** BT240003ET________  
+**Student Name:** Khushi Naresh Sawarkar 
+**Roll Number:** BT240051ET  
 **Branch:** Electronics and Telecommunication Engineering (ETC)  
-**Semester:** V  
+**Semester:** Vth 
 **Course:** Natural Language Processing (ET5M004)
 
 ---
